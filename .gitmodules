@@ -1,0 +1,6 @@
+[submodule "cuddlycat"]
+	path = cuddlycat
+	url = ssh://git@github.com/gkwa/cuddlycat.git
+[submodule "magicmeerkat"]
+	path = magicmeerkat
+	url = ssh://git@github.com/gkwa/magicmeerkat.git
